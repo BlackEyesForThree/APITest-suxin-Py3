@@ -2,10 +2,13 @@
 # @Time    : 2017/6/4 20:15
 # @Author  : Three
 # @File    : test_case.py
-from  Interface.testFengzhuang import TestApi
-from  Public.get_excel import datacel
-from  Public.tsest_log import log_re
+from Interface.testFengzhuang import TestApi
+from Public.get_excel import datacel
+from Public.tsest_log import log_re
+
+
 listid,listkey,listconeent,listurl,listfangshi,listqiwang,listname=datacel()
+
 from Public.panduan import assert_in
 title='测试日志'
 log_can=log_re(title)

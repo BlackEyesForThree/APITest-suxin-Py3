@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Author  : leizi
+# @Author  : Three
 import  smtplib,time,os
 from  email.mime.text import MIMEText
 from email.utils import formataddr,parseaddr

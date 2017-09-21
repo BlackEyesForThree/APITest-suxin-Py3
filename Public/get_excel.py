@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2017/6/4 20:35
-# @Author  : lileilei
+# @Author  : Three
 # @File    : get_excel.py
 # @Software: PyCharm
 import xlrd,xlwt

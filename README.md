@@ -7,7 +7,7 @@
 # 最近更新增加了记录测试结果的，后期打算加入测试数据的统计。
 # 首先我们来看下我们的目录
 ##
-![Alt text](https://github.com/liwanlei/jiekou-python3/blob/master/img/xiangmujiegoutu.png)
+![Alt text](https://github.com/BlackEyesForThree/APITest-suxin-Py3/tree/master/img/xiangmujiegoutu.png)
 ##
 ### 1.Case文件夹用来存放我们的测试用例相关的，
 ### 2.Data用来存储我们的测试数据，Excel管理测试用例，yaml文件管理测试用例，后续要把yaml管理测试用例的也封装出来。
@@ -18,15 +18,15 @@
 ##
 
 ## 产生的html测试报告如下
-![Alt text](https://github.com/liwanlei/jiekou/blob/master/img/cebaogaotu.png)
+![Alt text](https://github.com/BlackEyesForThree/APITest-suxin-Py3/tree/master/img/cebaogaotu.png)
 ##
 ### 增加了Excel管理测试报告的功能，目前在继续优化功能，增加了config目录，一些配置文件的目录，
 ##
 ## 产生的Excel测试报告如下
-![Alt text](https://github.com/liwanlei/jiekou/blob/master/img/excel.png)
-![Alt text](https://github.com/liwanlei/jiekou/blob/master/img/excel2.png)
+![Alt text](https://github.com/BlackEyesForThree/APITest-suxin-Py3/tree/master/img/excel.png)
+![Alt text](https://github.com/BlackEyesForThree/APITest-suxin-Py3/tree/master/img/excel2.png)
 ### 现在的测试结构更加完整，最新的一次提交增加了log日志的展示，使功能更加完善，log日志在控制台展示如下，对目录进行优化
-![Alt text](https://github.com/liwanlei/jiekou/blob/master/img/log.png)
+![Alt text](https://github.com/BlackEyesForThree/APITest-suxin-Py3/tree/master/img/log.png)
 
 
 

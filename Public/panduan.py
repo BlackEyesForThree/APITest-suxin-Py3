@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Date    : 2017-08-02 21:54:08
-# @Author  : lileilei
+# @Author  : Three
 def assert_in(asserqiwang,fanhuijson):
     if len(asserqiwang.split('=')) > 1:
         data = asserqiwang.split('&')
